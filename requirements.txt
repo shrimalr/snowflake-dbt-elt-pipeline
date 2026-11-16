@@ -1,0 +1,4 @@
+boto3==1.35.0
+pandas==2.2.2
+dbt-snowflake==1.8.4
+python-dotenv==1.0.1
